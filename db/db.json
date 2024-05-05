@@ -160,5 +160,49 @@
       "date": "2024-05-04",
       "daily_eggs": 1
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "item": "Cow",
+      "image": "2024-05-04",
+      "description": "3 year old",
+      "price": 80000,
+      "location": "Kilifi"
+    },
+      {
+        "id": 2,
+        "item": "Chicken",
+        "image": "2024-05-04",
+        "description": "6 months old",
+        "price": "500",
+        "location": "Kakamega"
+      },
+      {
+        "id": 3,
+        "item": "tractor",
+        "image": "2024-05-04",
+        "description": "",
+        "price": "2.6 Million",
+        "location": "Kitale"
+      },
+      {
+        "id": 4,
+        "item": "Eggs",
+        "image": "",
+        "description": "A crate of eggs",
+        "price": 20,
+        "location": "Eldoret"
+        
+      },
+      {
+        "id": 5,
+        "item": 12,
+        "image": "2024-05-04",
+        "description": 2.5,
+        "price": 20,
+        "location": "Eldoret"
+        
+      }
   ]
 }
